@@ -1,4 +1,4 @@
-FROM fourgeo/android-sdk:latest
+FROM fourgeo/android-dev:latest
 
 MAINTAINER Ivan Fastov "c0d3r85@gmail.com"
 

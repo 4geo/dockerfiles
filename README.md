@@ -14,4 +14,7 @@ docker run --tty --interactive --volume="${HOME}/projects/4geo.world/cordova/iWo
 Then you should be able to build apk (gulp && ionic prepare android && ionic build android --debug)
 
 android-dev [![](https://images.microbadger.com/badges/image/fourgeo/android-dev.svg)](https://microbadger.com/images/fourgeo/android-dev "Get your own image badge on microbadger.com")
-ppm-prepare-android [![](https://images.microbadger.com/badges/image/fourgeo/ppm-prepare-android.svg)](https://microbadger.com/images/fourgeo/ppm-prepare-android "Get your own image badge on microbadger.com")
+
+android-sdk [![](https://images.microbadger.com/badges/image/fourgeo/android-sdk.svg)](https://microbadger.com/images/fourgeo/android-sdk "Get your own image badge on microbadger.com")
+
+ionic-android [![](https://images.microbadger.com/badges/image/fourgeo/ionic-android.svg)](https://microbadger.com/images/fourgeo/ionic-android "Get your own image badge on microbadger.com")

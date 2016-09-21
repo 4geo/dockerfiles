@@ -12,3 +12,5 @@ docker run --tty --volume="${HOME}/projects/4geo.world/cordova/iWorld":/home/dev
 docker run --tty --interactive --volume="${HOME}/projects/4geo.world/cordova/iWorld":/home/developer/project fourgeo-ppm-android /bin/bash
 ```
 Then you should be able to build apk (gulp && ionic prepare android && ionic build android --debug)
+
+[![](https://images.microbadger.com/badges/image/fourgeo/android-dev.svg)](https://microbadger.com/images/fourgeo/android-dev "Get your own image badge on microbadger.com")
